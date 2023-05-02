@@ -1,0 +1,74 @@
+
+h1 {
+    font-size: x-large;
+    position: relative;
+    left: 700px;
+    top: 100px;
+}
+
+#firstDiv{
+    height: 20vh;
+    display: flex;
+    align-content: center;
+};
+}
+
+.gitHubPic {
+    border-radius: 10em 15em;
+    border-radius: 100px;
+    position: relative;
+    bottom: 30px;
+}
+#secondDiv{
+    margin: 0px;
+    border: 1px solid lightgray;
+};
+    font-size: x-large;
+}
+
+#thirdDiv{
+    margin: 0px;
+@@ -22,5 +32,13 @@
+#repoContainer {
+    border: 1px solid lightgray;
+    margin: 0px;
+};
+    background-color: lightgray;
+}
+
+a:visited{
+    color:blue;
+}
+
+.gitUrl {
+    font-size: large;
+}
+
+
+
+
+
+
+/* 
+#header {
+    font-family: Sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+
+
+
+.picture {
+
+}
+
+#subHeader {
+
+}
+
+
+.repoContainer {
+
+
+} */
